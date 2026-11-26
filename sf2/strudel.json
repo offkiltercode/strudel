@@ -1,5 +1,4 @@
 {
-  "_base": "https://raw.githubusercontent.com/offkiltercode/strudel/",
-  "sf2": ["Brazil.wav", "China.wav", "ChunLiYip.wav", "India.wav", "Japan.wav", "Perfect.wav", "RyuHaduken.wav", "RyuKick.wav", "RyuShoryuken.wav", "SagatTiger.wav", "SonicBoom.wav", "Spain.wav", "Thailand.wav", "USA.wav", "USSR.wav", "USSR_2.wav", "Yodel.wav", "YogaFire.wav", "YogaFlame.wav", 
-"YouLose.wav", "YouWin.wav", "ZangeifLaugh.wav"]
+  "_base": "https://raw.githubusercontent.com/offkiltercode/strudel/main/",
+  "sf2": ["Brazil.wav","China.wav","ChunLiYip.wav","India.wav","Japan.wav","Perfect.wav","RyuHaduken.wav","RyuKick.wav","RyuShoryuken.wav","SagatTiger.wav","SonicBoom.wav","Spain.wav","Thailand.wav","USA.wav","USSR.wav","USSR_2.wav","Yodel.wav","YogaFire.wav","YogaFlame.wav","YouLose.wav","YouWin.wav","ZangeifLaugh.wav"]
 }
